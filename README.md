@@ -136,13 +136,10 @@ Newbit은 사회 초년생과 지식과 다양한 경험을 가진 IT 전문가�
 
 ## 설계 문서
 
-- [DDD 설계 문서](https://miro.com/app/board/uXjVINvVwgo=/?share_link_id=532750127721)
-- [요구사항 명세서](https://docs.google.com/spreadsheets/d/1aflf9F-G79LgBtK9sxy4J_ZFPHslv-X5P6s3-67kGR4/edit?gid=721187272#gid=721187272)
-- [기능 명세서](https://docs.google.com/spreadsheets/d/1aflf9F-G79LgBtK9sxy4J_ZFPHslv-X5P6s3-67kGR4/edit?gid=55030434#gid=55030434)
-  <div align="center">
-    <img src="./assets/images/기능명세서105-08 135221.png" />
-  </div>
-- [화면 설계서](https://www.figma.com/design/S0MGtixgcf0KHwT88tdEk5/NewbIT?node-id=0-1&t=CoFMAq54HXoVD8tW-1)
+- [BE - DDD 설계 문서](https://miro.com/app/board/uXjVINvVwgo=/?share_link_id=532750127721)
+- [BE - 요구사항 명세서](https://docs.google.com/spreadsheets/d/1aflf9F-G79LgBtK9sxy4J_ZFPHslv-X5P6s3-67kGR4/edit?gid=721187272#gid=721187272)
+- [FE - 기능 명세서](https://docs.google.com/spreadsheets/d/1aflf9F-G79LgBtK9sxy4J_ZFPHslv-X5P6s3-67kGR4/edit?gid=55030434#gid=55030434)
+- [FE - 화면 설계서](https://www.figma.com/design/S0MGtixgcf0KHwT88tdEk5/NewbIT?node-id=0-1&t=CoFMAq54HXoVD8tW-1)
 
 ## 테스트 결과 보고서
 
