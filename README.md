@@ -142,6 +142,7 @@ Newbit은 사회 초년생과 지식과 다양한 경험을 가진 IT 전문가�
   <div align="center">
     <img src="./assets/images/기능명세서105-08 135221.png" />
   </div>
+- [화면 설계서](https://www.figma.com/design/S0MGtixgcf0KHwT88tdEk5/NewbIT?node-id=0-1&t=CoFMAq54HXoVD8tW-1)
 
 ## 테스트 결과 보고서
 
